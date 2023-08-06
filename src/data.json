@@ -1,0 +1,109 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "age": 30
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "age": 28
+      },
+      {
+        "id": 3,
+        "name": "Mike Johnson",
+        "email": "mike@example.com",
+        "age": 25
+      }
+    ],
+    "questions": [
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 201,
+        "title": "What is OS ?",
+        "votes": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tag": "Data Structures & Algorithms"
+      },
+      {
+        "id": 202,
+        "title": "What is SQL ?",
+        "votes": 1,
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "tag": "Data Structures & Algorithms"
+      }
+    ]
+  }
+  

@@ -1,0 +1,12 @@
+.top-section {
+    padding: 20px;
+    margin: 10px;
+    background-color: aliceblue;
+}
+
+.top-topsection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }

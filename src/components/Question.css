@@ -1,0 +1,16 @@
+.question {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.question-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.question-right {
+    margin-left: 10px;
+}

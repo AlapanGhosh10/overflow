@@ -1,0 +1,24 @@
+header {
+    background-color: #F48024;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10vw;
+    padding-left: 10vw;
+    color: #fff;
+}
+
+.sidewise {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#main-icon {
+    text-decoration: none;
+    color: #fff;
+}
+  
+#main-icon > a:visited {
+    color: #fff;
+}
